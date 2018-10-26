@@ -1,0 +1,31 @@
+
+Zsquid:S1444~"7Make this "public static SortMoviesbyTitle" field final(™ëûûùÿÿÿÿ8ØãÜÉê,
+{squid:S00116"VRename this field "total_pages" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó®ô†úÿÿÿÿ8ØãÜÉê,
+nsquid:S00100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(° “ÿ8ØãÜÉê,
+squid:S3008~"\Rename this field "SortMoviesbyTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ëûûùÿÿÿÿ8ØãÜÉê,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç©ÜÑşÿÿÿÿ8¿ñÈê,
+nsquid:S00100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü·çÈ8ØãÜÉê,
+esquid:S00112I"FDefine and throw a dedicated exception instead of using a generic one.(üüıØ8ØãÜÉê,
+Csquid:S1659N"%Declare "output2" on a separate line.(»ê‹˜8ØãÜÉê,
+fsquid:UselessImportCheck	";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8¿ñÈê,
+Esquid:S1604"(Make this anonymous inner class a lambda(‚Å·*8ı±øÈê,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ë®åÉê,
+—"squid:ClassVariableVisibilityCheck~"]Make SortMoviesbyTitle a static final constant or non-public and provide accessors if needed.(™ëûûùÿÿÿÿ8ØãÜÉê,
+Fsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÛÔ˜Éê,
+Fsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÉÉİÉê,
+Osquid:S1612:",Replace this lambda with a method reference.(Êâ®Öüÿÿÿÿ8¹—İÉê,
+ssquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÕË¹şÿÿÿÿ8ØãÜÉê,
+usquid:S00116Y"QRename this field "Poster" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îüæùÿÿÿÿ8ØãÜÉê,
+_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8¿ñÈê,
+jsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(Øçë¦8ØãÜÉê,
+osquid:S00116["PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¨„æ8ØãÜÉê,
+gsquid:UselessImportCheck
+"7Remove this unused import 'java.net.ProtocolException'.(é­Èğûÿÿÿÿ8¿ñÈê,
+nsquid:S00116Z"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÀÿ±8ØãÜÉê,
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(®ŞÍ8óáŠÉê,
+ssquid:S00116"SRename this field "per_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æƒı¬8ØãÜÉê,
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÕË¹şÿÿÿÿ8ØãÜÉê,
+qsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(° “ÿ8ØãÜÉê,
+ssquid:S00100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëşå¤üÿÿÿÿ8ØãÜÉê,
